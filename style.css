@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container {
+    text-align: center;
+    height: 200px;
+    font-size: 6rem;
+}
+.dateFormat{
+    width: 9rem;
+    height:10rem;
+    margin: -3rem 2rem 0rem auto;
+    background-color: #1B1C1E;
+    border-radius: 2rem;
+}
+
+.date{
+    font-size: 1.2rem;
+}
+
+.clock{
+    background-color:#1B1C1E;
+    width: 6em;
+    margin-left: 30%;
+    border-radius: 2rem;
+    padding: 0.5rem;
+}
+img{
+    border-radius: 3rem;
+    opacity: 0.5;
+    width: 50rem;
+}
