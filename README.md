@@ -1,8 +1,6 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-006 : Digital Clock (JS-06)
-
 ## Description
 Project aims to create a digital clock.
 
@@ -94,8 +92,5 @@ Build a Digital Clock web site
 - You can add additional functionalities to your clock.
 
 
-
-
 <center> ⌛ Happy Coding  ✍ </center>
 
-# 023_Digital_Clock
