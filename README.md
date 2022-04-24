@@ -20,7 +20,7 @@ Project aims to create a digital clock.
 
 ## Expected Outcome
 
-![Project 006 Snapshot](projec.jpg)
+![Project Snapshot](project.jpg)
 
 ## Objective
 
