@@ -1,6 +1,3 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 ## Description
 Project aims to create a digital clock.
 
@@ -19,10 +16,11 @@ Project aims to create a digital clock.
         |----style.css   
         |----app.js
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Expected Outcome
 
-![Project 006 Snapshot](project_006.gif)
+![Project 006 Snapshot](projec.jpg)
 
 ## Objective
 
@@ -36,6 +34,7 @@ Build a Digital Clock web site
 
 - JS
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### At the end of the project, students will be able to;
 
@@ -71,6 +70,8 @@ Build a Digital Clock web site
 
 - Step 5: Deploy your application on Github template to showcase your app within your team.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Notes
 
 - These methods can be used for getting information from a date object:
@@ -91,6 +92,45 @@ Build a Digital Clock web site
 
 - You can add additional functionalities to your clock.
 
+<!-- CONTACT -->
+## Contact
+
+<a href="https://my-portfolio-page-resume.herokuapp.com/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/enesunlu/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://twitter.com/Enes9103">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/nolan/40/twitter.png"/>
+</a>
+
+<a href="https://www.instagram.com/enesunlu0303/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+
+<a href="https://t.me/Enes9103">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+</a>
+
+<a href="mailto:enes9103@gmail.com">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+
+Project Link: [https://github.com/enes9103](https://github.com/enes9103)
+</p>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+## Support
+
+<p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
+
+ <p align="right">(<a href="#top">back to top</a>)</p>
 
 <center> ⌛ Happy Coding  ✍ </center>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
